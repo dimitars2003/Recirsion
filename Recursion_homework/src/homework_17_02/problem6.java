@@ -4,8 +4,8 @@ public class problem6 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int searched = 3;
-		int [] numbers = new int [] {6,4,5,1,2,6,7,1,3,3,1,1};
+		int searched = 7;
+		int [] numbers = new int [] {6,4,5,1,2,6,7,1};
 		System.out.println(isFound(searched,sortArray(numbers)));
 	}
 	
